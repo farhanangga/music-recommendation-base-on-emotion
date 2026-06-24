@@ -1,0 +1,101 @@
+title,singer,valence,arousal,link
+Blinding Lights,The Weeknd,0.57,0.73,https://example.com/song/1
+Shape of You,Ed Sheeran,0.24,0.56,https://example.com/song/2
+Dance Monkey,Tones and I,0.61,0.39,https://example.com/song/3
+Someone You Loved,Lewis Capaldi,0.28,0.22,https://example.com/song/4
+Sunflower,Post Malone & Swae Lee,0.65,0.75,https://example.com/song/5
+As It Was,Harry Styles,0.32,0.58,https://example.com/song/6
+Levitating,Dua Lipa,0.69,0.41,https://example.com/song/7
+Bad Guy,Billie Eilish,0.36,0.24,https://example.com/song/8
+Stay,The Kid LAROI & Justin Bieber,0.73,0.77,https://example.com/song/9
+Perfect,Ed Sheeran,0.4,0.6,https://example.com/song/10
+Uptown Funk,Mark Ronson ft. Bruno Mars,0.77,0.43,https://example.com/song/11
+Closer,The Chainsmokers ft. Halsey,0.44,0.26,https://example.com/song/12
+Thinking Out Loud,Ed Sheeran,0.81,0.79,https://example.com/song/13
+Believer,Imagine Dragons,0.48,0.62,https://example.com/song/14
+Señorita,Shawn Mendes & Camila Cabello,0.85,0.45,https://example.com/song/15
+Shake It Off,Taylor Swift,0.52,0.28,https://example.com/song/16
+Havana,Camila Cabello,0.89,0.81,https://example.com/song/17
+Girls Like You,Maroon 5,0.56,0.64,https://example.com/song/18
+Roar,Katy Perry,0.23,0.47,https://example.com/song/19
+Counting Stars,OneRepublic,0.6,0.3,https://example.com/song/20
+Memories,Maroon 5,0.27,0.83,https://example.com/song/21
+Photograph,Ed Sheeran,0.64,0.66,https://example.com/song/22
+Happy,Pharrell Williams,0.31,0.49,https://example.com/song/23
+Sorry,Justin Bieber,0.68,0.32,https://example.com/song/24
+Love Yourself,Justin Bieber,0.35,0.85,https://example.com/song/25
+Thunder,Imagine Dragons,0.72,0.68,https://example.com/song/26
+Watermelon Sugar,Harry Styles,0.39,0.51,https://example.com/song/27
+Flowers,Miley Cyrus,0.76,0.34,https://example.com/song/28
+Anti-Hero,Taylor Swift,0.43,0.87,https://example.com/song/29
+Easy On Me,Adele,0.8,0.7,https://example.com/song/30
+Drivers License,Olivia Rodrigo,0.47,0.53,https://example.com/song/31
+Good 4 U,Olivia Rodrigo,0.84,0.36,https://example.com/song/32
+Peaches,Justin Bieber,0.51,0.89,https://example.com/song/33
+Industry Baby,Lil Nas X & Jack Harlow,0.88,0.72,https://example.com/song/34
+Heat Waves,Glass Animals,0.55,0.55,https://example.com/song/35
+Calm Down,Rema & Selena Gomez,0.22,0.38,https://example.com/song/36
+Starboy,The Weeknd,0.59,0.21,https://example.com/song/37
+Take Me To Church,Hozier,0.26,0.74,https://example.com/song/38
+Rockstar,Post Malone,0.63,0.57,https://example.com/song/39
+7 Rings,Ariana Grande,0.3,0.4,https://example.com/song/40
+Thank U Next,Ariana Grande,0.67,0.23,https://example.com/song/41
+Old Town Road,Lil Nas X,0.34,0.76,https://example.com/song/42
+Circles,Post Malone,0.71,0.59,https://example.com/song/43
+Attention,Charlie Puth,0.38,0.42,https://example.com/song/44
+Faded,Alan Walker,0.75,0.25,https://example.com/song/45
+Wake Me Up,Avicii,0.42,0.78,https://example.com/song/46
+The Nights,Avicii,0.79,0.61,https://example.com/song/47
+Titanium,David Guetta ft. Sia,0.46,0.44,https://example.com/song/48
+Cheap Thrills,Sia,0.83,0.27,https://example.com/song/49
+Despacito,Luis Fonsi & Daddy Yankee,0.5,0.8,https://example.com/song/50
+Blank Space,Taylor Swift,0.87,0.63,https://example.com/song/51
+All Of Me,John Legend,0.54,0.46,https://example.com/song/52
+Hello,Adele,0.21,0.29,https://example.com/song/53
+Rolling in the Deep,Adele,0.58,0.82,https://example.com/song/54
+Firework,Katy Perry,0.25,0.65,https://example.com/song/55
+Dark Horse,Katy Perry,0.62,0.48,https://example.com/song/56
+Radioactive,Imagine Dragons,0.29,0.31,https://example.com/song/57
+Demons,Imagine Dragons,0.66,0.84,https://example.com/song/58
+Let Her Go,Passenger,0.33,0.67,https://example.com/song/59
+Riptide,Vance Joy,0.7,0.5,https://example.com/song/60
+Pompeii,Bastille,0.37,0.33,https://example.com/song/61
+Royals,Lorde,0.74,0.86,https://example.com/song/62
+Sugar,Maroon 5,0.41,0.69,https://example.com/song/63
+Animals,Maroon 5,0.78,0.52,https://example.com/song/64
+See You Again,Wiz Khalifa ft. Charlie Puth,0.45,0.35,https://example.com/song/65
+Stressed Out,Twenty One Pilots,0.82,0.88,https://example.com/song/66
+Ride,Twenty One Pilots,0.49,0.71,https://example.com/song/67
+Heathens,Twenty One Pilots,0.86,0.54,https://example.com/song/68
+Closer To The Edge,30 Seconds to Mars,0.53,0.37,https://example.com/song/69
+Counting Blue Cars,Dishwalla,0.2,0.2,https://example.com/song/70
+Yellow,Coldplay,0.57,0.73,https://example.com/song/71
+Viva La Vida,Coldplay,0.24,0.56,https://example.com/song/72
+Adventure of a Lifetime,Coldplay,0.61,0.39,https://example.com/song/73
+Paradise,Coldplay,0.28,0.22,https://example.com/song/74
+Fix You,Coldplay,0.65,0.75,https://example.com/song/75
+Sky Full of Stars,Coldplay,0.32,0.58,https://example.com/song/76
+Numb,Linkin Park,0.69,0.41,https://example.com/song/77
+In The End,Linkin Park,0.36,0.24,https://example.com/song/78
+What I've Done,Linkin Park,0.73,0.77,https://example.com/song/79
+New Divide,Linkin Park,0.4,0.6,https://example.com/song/80
+Castle of Glass,Linkin Park,0.77,0.43,https://example.com/song/81
+Burn It Down,Linkin Park,0.44,0.26,https://example.com/song/82
+Lose Yourself,Eminem,0.81,0.79,https://example.com/song/83
+Without Me,Eminem,0.48,0.62,https://example.com/song/84
+Love The Way You Lie,Eminem ft. Rihanna,0.85,0.45,https://example.com/song/85
+Mockingbird,Eminem,0.52,0.28,https://example.com/song/86
+Not Afraid,Eminem,0.89,0.81,https://example.com/song/87
+Rap God,Eminem,0.56,0.64,https://example.com/song/88
+God's Plan,Drake,0.23,0.47,https://example.com/song/89
+One Dance,Drake,0.6,0.3,https://example.com/song/90
+Hotline Bling,Drake,0.27,0.83,https://example.com/song/91
+HUMBLE.,Kendrick Lamar,0.64,0.66,https://example.com/song/92
+DNA.,Kendrick Lamar,0.31,0.49,https://example.com/song/93
+Alright,Kendrick Lamar,0.68,0.32,https://example.com/song/94
+Sicko Mode,Travis Scott,0.35,0.85,https://example.com/song/95
+Goosebumps,Travis Scott,0.72,0.68,https://example.com/song/96
+Lucid Dreams,Juice WRLD,0.39,0.51,https://example.com/song/97
+All Girls Are The Same,Juice WRLD,0.76,0.34,https://example.com/song/98
+Legends,Juice WRLD,0.43,0.87,https://example.com/song/99
+Robbery,Juice WRLD,0.8,0.7,https://example.com/song/100
